@@ -43,7 +43,7 @@ This section covers:
 Web Developer & Machine Learning Enthusiast  
 📍 Kenya  
 📧 wawerumuturi57@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/derrick-muturi) | [Email](wawerumutur57@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/derrick-muturi)
 
 I am passionate about building engaging digital experiences and exploring the world of machine learning. This repository is part of my continuous learning journey. Feel free to contribute or reach out if you have any questions! 🚀. This repository is part of my continuous learning journey. Feel free to contribute or reach out if you have any questions! 🚀
 
