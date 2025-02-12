@@ -44,6 +44,6 @@ Web Developer & Machine Learning Enthusiast
 📍 Kenya  
 🔗 [LinkedIn](https://www.linkedin.com/in/derrick-muturi) | [GitHub](https://github.com/yourgithubprofile)
 
-I am passionate about building engaging digital experiences and exploring the world of machine learning. This repository is part of my continuous learning journey. Feel free to contribute or reach out if you have any questions! 🚀
+I am passionate developer who is passionate about building engaging digital experiences and exploring the world of machine learning. This repository is part of my continuous learning journey. Feel free to contribute or reach out if you have any questions! 🚀
 
 ---
